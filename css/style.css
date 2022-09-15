@@ -1,0 +1,110 @@
+h1 {
+  color: yellow;
+  font-family: "Podkova";
+  font-weight: 900;
+  font-size: 40px;
+}
+
+h2 {
+  color: blue;
+  font-family: "Podkova";
+  font-weight: 700;
+  font-size: 30px;
+}
+
+p {
+  font-family: "Caveat";
+}
+
+a {
+  font-family: "Caveat";
+  font-weight: 900;
+}
+
+.beck {
+  background-color: rosybrown;
+}
+
+.ukraine {
+  margin-left: 7%;
+  padding: 1%;
+}
+
+.trizub {
+  height: 250px;
+  padding: 1%;
+  margin: 20px 100px 0px 100px;
+}
+
+.trizub-two {
+  height: 250px;
+  padding: 1%;
+  margin: 20px 0px 0px 200px;
+}
+
+.blue {
+  background-color: blue;
+  padding: 5%;
+  margin: 0px 100px 0px 100px;
+  text-align: center;
+  text-shadow: 2px 2px 5px #000;
+  letter-spacing: 7px;
+  box-shadow: 2px 2px 5px #000;
+}
+
+.yellow {
+  background-color: yellow;
+  padding: 5%;
+  margin: 0px 100px 0px 100px;
+  text-align: center;
+  text-shadow: 2px 2px 5px #000;
+  letter-spacing: 15px;
+  box-shadow: 2px 2px 5px #000;
+}
+
+.text {
+  padding: 2%;
+  margin: 0px 100px 0px 100px;
+  text-align: center;
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.text-two {
+  background-color: rgb(245, 182, 182);
+  padding: 2%;
+  margin: 0px 100px 0px 100px;
+  text-align: center;
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.text-red {
+  padding: 2%;
+  margin: 0px 100px 0px 100px;
+  text-align: center;
+  font-size: 40px;
+  text-transform: capitalize;
+  line-height: 1.2;
+  word-spacing: 20px;
+  color: red;
+  box-shadow: 2px 2px 5px red;
+}
+
+.line {
+  text-decoration: underline;
+}
+
+.end {
+  margin-left: 34%;
+}
+
+.text-aber {
+  padding: 2%;
+  margin: 0px 100px 0px 100px;
+  text-align: center;
+  font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 900;
+  line-height: 1.2;
+}

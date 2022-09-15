@@ -1,0 +1,48 @@
+/* --------- Шрифти ------------ */
+
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap");
+
+@font-face {
+  font-family: "Podkova";
+  src: url("../fonts/Podkova-Regular.woff2") format("woff2"),
+    url("../fonts/Podkova-Regular.woff") format("woff");
+  font-display: swap;
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Podkova";
+  src: url("../fonts/Podkova-Medium.woff2") format("woff2"),
+    url("../fonts/Podkova-Medium.woff2") format("woff");
+  font-display: swap;
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Podkova";
+  src: url("../fonts/Podkova-SemiBold.woff2") format("woff2"),
+    url("../fonts/Podkova-SemiBold.woff") format("woff");
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Podkova";
+  src: url("../fonts/Podkova-Bold.woff2") format("woff2"),
+    url("../fonts/Podkova-Bold.woff") format("woff");
+  font-display: swap;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Podkova";
+  src: url("../fonts/Podkova-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Podkova-ExtraBold.woff") format("woff");
+  font-display: swap;
+  font-weight: 900;
+  font-style: normal;
+}
